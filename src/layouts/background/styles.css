@@ -122,7 +122,7 @@ body {
   }
 }
 
-@-keyframes swayWays {
+@keyframes swayWays {
   0% {
     transform: rotate(12deg);
     left: -0.3%;
