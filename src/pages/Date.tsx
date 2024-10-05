@@ -90,23 +90,23 @@ const Date = () => {
 
   const movieData = [
     {
-      title: "Beetlejuice Beetlejuice",
+      title: "THE WIND RISES",
       image: mov1,
     },
     {
-      title: "Dul Muluk Dul Malik",
+      title: "My Neighbor TOTORO",
       image: mov2,
     },
     {
-      title: "Hellboy: The Crooked Man",
+      title: "Weathering With You",
       image: mov3,
     },
     {
-      title: "Never Let Go",
+      title: "Your Name",
       image: mov4,
     },
     {
-      title: "Transformers One",
+      title: "Suzume",
       image: mov5,
     },
     {
